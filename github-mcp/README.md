@@ -1,5 +1,19 @@
 # Automated PR Review System with LangGraph
 
+
+## Author Information
+
+- Developer: Srihari Swain
+- Email: srihariswain2001@gmail.com
+- GitHub: https://github.com/srihari-swain
+
+## Project Timeline
+
+- Development Time: Approximately 7 hours
+
+
+## overview
+
 This project implements an automated PR (Pull Request) review system using LangGraph, OpenAI, and the GitHub API. It can fetch PR details, analyze code changes, identify risks, and generate review comments.
 
 ## Project Structure
