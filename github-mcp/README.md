@@ -14,7 +14,7 @@
 
 ## overview
 
-This project implements an automated PR (Pull Request) review system using LangGraph, OpenAI, and the GitHub API. It can fetch PR details, analyze code changes, identify risks, and generate review comments.
+This project implements an automated PR (Pull Request) review system using LangGraph, OpenAI, and the GitHub MCP server. It can fetch PR details, analyze code changes, identify risks, and generate review comments.
 
 ## Project Structure
 
